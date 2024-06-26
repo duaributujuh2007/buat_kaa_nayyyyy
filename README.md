@@ -1,18 +1,5 @@
 # buat_kaa_nayyyyy
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>BONASSSSSSS</title>
-</head>
-<body>
-	<h1>hallo kaa nayyyy</h1>
-	<a href="alvin2.html"></a>
-	<h1>aku mau kasih liatt aku buat apaan</h1>
-	<img src="gambar.jpg">
-</body>
-</html>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,7 +12,20 @@
 	<img src="love.jpg"heigth="200px" width="200px">
 	<p>anjayyyyy kerenn gakk hehehehehe</p>
 	<a href="alvin3.html">pencet lagii</a>
+</body><!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>BONASSSSSSS</title>
+</head>
+<body>
+	<h1>hallo kaa nayyyy</h1>
+	<h1>aku mau kasih liatt aku buat apaan</h1>
+	<a href="alvin2.html">pencet</a>
+	<img src="gambar.jpg">
 </body>
+</html>
 </html>
 <!DOCTYPE html>
 <html>
